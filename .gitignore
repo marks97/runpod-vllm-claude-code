@@ -1,0 +1,13 @@
+.venv/
+*.local.sh
+__pycache__/
+*.pyc
+out/
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.jpg
+metadata.json
+skills-lock.json
+.env

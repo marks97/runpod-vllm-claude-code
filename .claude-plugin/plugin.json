@@ -1,0 +1,9 @@
+{
+  "name": "runpod-vllm-claude-code",
+  "version": "1.0.0",
+  "description": "Deploy any HuggingFace model to RunPod as a vLLM server, bridge it to Claude Code (which speaks Anthropic's Messages API, not OpenAI's), smoke-test that tool-calling actually works end to end, and tear everything down with zero trace (pod, ",
+  "author": { "name": "Marc Amoros", "url": "https://github.com/marks97" },
+  "repository": "https://github.com/marks97/runpod-vllm-claude-code",
+  "license": "MIT",
+  "skills": "./runpod-vllm-claude-code/"
+}
